@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yumyumtrello/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/yumyumtrello/static/js/main.1c75b85e.chunk.js",
+    "main.js.map": "/yumyumtrello/static/js/main.1c75b85e.chunk.js.map",
+    "runtime-main.js": "/yumyumtrello/static/js/runtime-main.72642634.js",
+    "runtime-main.js.map": "/yumyumtrello/static/js/runtime-main.72642634.js.map",
+    "static/js/2.d623feb1.chunk.js": "/yumyumtrello/static/js/2.d623feb1.chunk.js",
+    "static/js/2.d623feb1.chunk.js.map": "/yumyumtrello/static/js/2.d623feb1.chunk.js.map",
+    "index.html": "/yumyumtrello/index.html",
+    "precache-manifest.e643491dfadb428568e1139ad949933e.js": "/yumyumtrello/precache-manifest.e643491dfadb428568e1139ad949933e.js",
+    "service-worker.js": "/yumyumtrello/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/yumyumtrello/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.d623feb1.chunk.js.LICENSE.txt": "/yumyumtrello/static/js/2.d623feb1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72642634.js",
+    "static/js/2.d623feb1.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.1c75b85e.chunk.js"
+  ]
+}
